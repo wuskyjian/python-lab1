@@ -1,6 +1,6 @@
 # AmI 2018 - Lab 1: Intro to Python (and Git)
 
-The goal of the exercises of this first lab (see [Labs-01-python-git-intro.pdf](Labs-01-python-git-intro.pdf) is to introduce you to Git and Python (and to the PyCharm IDE).
+The goal of the exercises of this first lab (see [Labs-01-python-git-intro.pdf](Labs-01-python-git-intro.pdf)) is to introduce you to Git and Python (and to the PyCharm IDE).
 
 To get started:
 
