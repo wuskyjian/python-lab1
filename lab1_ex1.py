@@ -1,5 +1,11 @@
 #  Exercise 1
-a = 20
-b = 30
 
-print(a + b)
+print("Please enter two numbers:")
+
+print("The first one is:")
+a = int(input())
+
+print("The second one is:")
+b = int(input())
+
+print("{} times {} is {}.".format(a, b, a*b))
