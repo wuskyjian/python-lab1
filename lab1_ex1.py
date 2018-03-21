@@ -8,4 +8,4 @@ a = int(input())
 print("The second one is:")
 b = int(input())
 
-print("{} times {} is {}.".format(a, b, a*b))
+print("{} plus {} is {}.".format(a, b, a + b))
